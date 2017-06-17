@@ -49,10 +49,10 @@
   <project path="device/moto/shamu" name="device_moto_shamu" remote="uber" />
 
   <!-- Kernels -->
-  <project path="kernel/google/marlin" name="DespairFactor/marlin" remote="gh" revision="rebase-exp" />
+  <project path="kernel/google/marlin" name="matthewdalex/marlin" remote="gh" revision="rebase-exp" />
   <project path="kernel/huawei/angler" name="UBERROMS/kernel_huawei_angler" remote="gh" revision="master" />
-  <project path="kernel/lge/bullhead" name="DespairFactor/bullhead" remote="gh" revision="n" />
-  <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="N" />
+  <project path="kernel/lge/bullhead" name="matthewdalex/bullhead" remote="gh" revision="n" />
+  <project path="kernel/moto/shamu" name="matthewdalex/N6" remote="gh" revision="N" />
 
   <!-- UBERROMS Project -->
 
